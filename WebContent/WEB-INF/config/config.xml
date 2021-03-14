@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>FILE PROPERTIES:</comment>
+
+	<entry key="jdbc.mysql.url">jdbc:mysql://us-cdbr-east-03.cleardb.com:3306/heroku_75a9c868adb575b?useSSL=false</entry>
+	<entry key="jdbc.mysql.username">b545792a4ce977</entry>
+	<entry key="jdbc.mysql.password">9b543a77</entry>
+
+</properties>
